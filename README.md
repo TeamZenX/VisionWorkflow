@@ -1,6 +1,6 @@
 # VisionWorkflow
 
-✨ Clone this repo and make it private. Edit [GitHubName](https://github.com/TeamZenX/VisionWorkflow/blob/045c5c4bd53e4603baed2e3056067bd4ceb2658a/.github/workflows/vision.yml#L9) and [GitHubMail](https://github.com/TeamZenX/VisionWorkflow/blob/045c5c4bd53e4603baed2e3056067bd4ceb2658a/.github/workflows/vision.yml#L10) with your own github mail and username and save changes.
+✨ Clone this repo and make it private. Edit [GitHubMail](https://github.com/TeamZenX/VisionWorkflow/blob/045c5c4bd53e4603baed2e3056067bd4ceb2658a/.github/workflows/vision.yml#L9) and [GitHubName](https://github.com/TeamZenX/VisionWorkflow/blob/045c5c4bd53e4603baed2e3056067bd4ceb2658a/.github/workflows/vision.yml#L10) with your own github mail and username and save changes.
 
 ✨ Go to settings/secrets/actions and add the secrets below:
 
