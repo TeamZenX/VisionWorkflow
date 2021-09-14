@@ -4,9 +4,7 @@
 
 ✨ Go to settings/secrets/actions and add the secrets below:
 
-```
-CREDS = Tutorial [Here](https://github.com/TeamZenX/VisionEnv/blob/main/README.md)
-GH_TOKEN = Your Github Personal Access Token (if you don't know how to get it read [this](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-token)
-```
+1 - CREDS = Tutorial [Here](https://github.com/TeamZenX/VisionEnv/blob/main/README.md)
+2 - GH_TOKEN = Your Github Personal Access Token (if you don't know how to get it read [this](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-token)
 
 ✨ Finally go to actions tab of this repo, select the Vision Workflow, and run the workflow 
